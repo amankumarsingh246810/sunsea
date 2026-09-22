@@ -1,5 +1,5 @@
 
-// api/leave-request.js
+// leave-request.js
 // Vercel Serverless Function - Node.js
 
 const leaveRequests = [];
