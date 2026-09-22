@@ -2,7 +2,7 @@
 
 ## Overview
 
-The `leave-request.js` file was updated to make the leave request API safer and more robust.
+The `api/leave-request.js` file was updated to make the leave request API safer and more robust.
 
 The following improvements were implemented:
 
@@ -513,14 +513,7 @@ The endpoint is now:
 
 The main API contract remains unchanged for valid POST and unfiltered GET requests.
 
+
 ````
 
-You can keep both files together:
-
-```text
-project/
-    └── leave-request.js
-
-README.md
-````
 
